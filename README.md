@@ -3,3 +3,4 @@ Traducción a código de los RTF 1 y RFT 2
 Integrantes: Aldo Rendón
              Alejandro Perez
              Juan José Londoño
+hola papasitos
